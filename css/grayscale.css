@@ -77,7 +77,7 @@
 	
 }
 
-.store_back, .store_p1, .store_lctours, .store_topflight, .store_betclim, .store_stews, .store_yacht, .store_teamnews, .store_alyssa, .store_hancock{
+.store_back, .store_p1, .store_lctours, .store_topflight, .store_betclim, .store_stews, .store_yacht, .store_teamnews, .store_alyssa, .store_hancock,.store_bryant{
 	height: 283px;
 	display: block;
 	background-image: url(../img/p1-laptop.jpg);
@@ -99,6 +99,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;}
+.store_bryant{ background-image:  url(../img/bryanthill.jpg); }
 .store_topflight{background-image: url(../img/tft-mock.jpg);  }
 .store_alyssa{background-image: url(../img/alyson-mock.jpg);  }
 .store_hancock{background-image: url(../img/han-mock.png);  }
@@ -218,7 +219,7 @@
 
 @media (min-width: 992px) {
 	
-.store_back, .store_p1, .store_lctours, .store_topflight, .store_betclim, .store_stews, .store_yacht, .store_teamnews, .store_alyssa, .store_hancock{
+.store_back, .store_p1, .store_lctours, .store_topflight, .store_betclim, .store_stews, .store_yacht, .store_teamnews, .store_alyssa, .store_hancock,.store_bryant{
 	height: 400px;
 	
 }	
